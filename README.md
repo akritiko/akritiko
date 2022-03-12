@@ -2,12 +2,6 @@
 
 Hello and thank you for stopping by. I am Apostolos Kritikos, a Critical Engineer and Researcher in the fields of open source software and software resilience. 
 
-This website is a digital journal where I record my thoughts and digital experiments. Should you want to contact me, I will be delighted to discuss with you. Please make sure you read our Privacy Policy as well!
-
-Best wishes for health and safety,
-
-A.
-
 <!--
 **akritiko/akritiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
