@@ -4,7 +4,7 @@ Hello and thank you for stopping by. I am Apostolos, a critical* software engine
 
 _*What is [Critical Engineering](https://criticalengineering.org/)?_
 
-📫: [apostolos.kritikos.me](https://apostolos.kritikos.me) or via [LinkedIn](https://www.linkedin.com/in/apostoloskritikos/)
+📫 [apostolos.kritikos.me](https://apostolos.kritikos.me) or via [LinkedIn](https://www.linkedin.com/in/apostoloskritikos/)
 
 <!--
 **akritiko/akritiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
