@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Hello and thank you for stopping by. I am Apostolos Kritikos, a Critical Engineer and Researcher in the fields of open source software and software resilience. 
+Hello and thank you for stopping by. I am Apostolos, a critical* software engineer (MSc) with a passion for new technologies and all things open. I am an advocate of Open Source Software, Open Data and Open Government and an active supporter of an Open Internet, accesible by everyone. 
+
+_*What is [Critical Engineering](https://criticalengineering.org/)?_
+
+- 📫: [apostolos.kritikos.me](https://apostolos.kritikos.me) or via [LinkedIn](https://www.linkedin.com/in/apostoloskritikos/)
 
 <!--
 **akritiko/akritiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
