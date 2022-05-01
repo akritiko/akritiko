@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello and thank you for stopping by. I am Apostolos, a critical* (software) engineer with a passion for new technologies and all things open. I am an advocate of Open Source Software, Open Data and Open Government and an active supporter of an Open & Inclusive WWW. 
+Thank you for stopping by. I am Apostolos, a critical* (software) engineer with a passion for new technologies and all things open. I am an advocate of Open Source Software, Open Data and Open Government and an active supporter of an Open & Inclusive World Wide Web. 
 
 _*What is [Critical Engineering](https://criticalengineering.org/)?_
 
