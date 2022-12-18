@@ -13,12 +13,10 @@ More about me:
 - 🛰 Participated in 10 Research & Development projects for 10+ years funded by the European Union.
 - 🏬 Worked in 150+ software projects for the private sector in 10+ years. 
 
-
-<!--
 Featured articles:
 
-- 
--->
+- [Declaration of MyData Principles](https://oldwww.mydata.org/declaration/greek/) by MyData Global. Official Greek translation.
+- [The PM² Manifesto](https://apostolos.kritikos.me/2020/05/pm2-manifesto-europe/). Greek translation.
 
 How to reach me: 
 
