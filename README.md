@@ -11,8 +11,9 @@ More about me:
 - ✨ Received a fellowship from the [European forum of the software research community](https://www.swforum.eu/) for Open Source Software advocation. 
 - ✨ Received a fellowship from the State Scholarships Foundation (ΙΚΥ), Greece for my Doctoral Research.
 - 🎤 Participated as a speaker at major international events such as [OSS Conference](https://www.youtube.com/watch?v=VPRIgfU7C8w), [re:publica](https://www.youtube.com/watch?v=ORx2HQUuq14), [Wordcamp Athens](https://www.youtube.com/watch?v=b39iyhF9Dkk) and more.
-- 🇪🇺 Supported the [EUvsVirus Hackathon](https://www.euvsvirus.org/) as a volunteer mentor and matchmaker.
+- 🌱 Supported the [EUvsVirus Hackathon](https://www.euvsvirus.org/) as a volunteer mentor and matchmaker.
 - 🇪🇺 Participated in the preparatory study for the [Open source software strategy 2020-2023](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/informatics/open-source-software-strategy_en) of the European Union.
+- 🌱 [Open Coffee](https://opencoffee.gr/about/) Thessaloniki Meetups host for ~10 years, serving the local entrepreneurial community.
 - 🛰 Participated in 10 Research & Development projects for 10+ years funded by the European Union.
 - 🏬 Worked in 150+ software projects for the private sector in 10+ years. 
 
