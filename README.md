@@ -4,15 +4,15 @@ Thank you for stopping by. I am Apostolos, a critical *** (software) engineer wi
 
 _*** what is [Critical Engineering](https://criticalengineering.org/)?_
 
-<!--
 More about me:
+  
+- ✨ Fellowship by the European forum of the software research community for Open Source Software advocation. 
+- ✨ Fellowship from the State Scholarships Foundation (ΙΚΥ), Greece for Doctoral Research. 
+- 🇪🇺 Supported the EUvsVirus Hackathon as a volunteer mentor and matchmaker.
+- 🇪🇺 Participated in the preparatory study for the [Open source software strategy 2020-2023](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/informatics/open-source-software-strategy_en) of the European Union.
+- 🛰 Participated in 10 Research & Development projects for 10+ years funded by the European Union.
+- 🏬 Worked in 150+ software projects for the private sector in 10+ years. 
 
-
-- 🛰 Experience in Research & Development for 10+ years participating in 10 European Union Funded projects.
-  - 🇪🇺 Participated in the preparatory study of the [Open source software strategy 2020-2023](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/informatics/open-source-software-strategy_en) for the European Union.
-  - 🇪🇺 Supported the EUvsVirus Hackathon as a mentor and matchmaker.
-- 🏬 Experience in software engineering for 10+ years in various sectors (i.e. eCommerce, Education, Digital Marketing & Advertising, Digital Transformation, SaaS).
--->
 
 <!--
 Featured articles:
