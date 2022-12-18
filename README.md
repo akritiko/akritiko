@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Thank you for stopping by. I am Apostolos, a critical *** (software) engineer with a passion for new technologies and all things open. I am an advocate of Open Source Software, Open Data and Open Government and an active supporter of an Open & Inclusive World Wide Web. **Currently builnding SaaS at Toggl**.
+Thank you for stopping by. I am Apostolos, a critical *** (software) engineer with a passion for new technologies and all things open. I am an advocate of Open Source Software, Open Data and Open Government and an active supporter of an Open & Inclusive World Wide Web. 
+
+**🔭 I am currently builnding SaaS at Toggl**.
 
 _*** what is [Critical Engineering](https://criticalengineering.org/)?_
 
