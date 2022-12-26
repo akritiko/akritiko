@@ -8,14 +8,14 @@ _*** what is [Critical Engineering](https://criticalengineering.org/)?_
 
 More about me:
   
-- ✨ Fellow of the [European forum of the software research community](https://www.swforum.eu/); Open Source Software advocation. 
-- ✨ Fellow of the State Scholarships Foundation (ΙΚΥ), Greece; funded my Doctoral Research on Software Resilience of Open Source Software.
+- ✨ I am a fellow of the [European forum of the software research community](https://www.swforum.eu/); Open Source Software advocation. 
+- ✨ I am a fellow of the State Scholarships Foundation (ΙΚΥ), Greece; funded my Doctoral Research on Software Resilience of Open Source Software.
 - 🎤 Participated as a speaker at major international events such as [OSS Conference](https://www.youtube.com/watch?v=VPRIgfU7C8w), [re:publica](https://www.youtube.com/watch?v=ORx2HQUuq14), [Wordcamp Athens](https://www.youtube.com/watch?v=b39iyhF9Dkk).
 - 🌱 Supported the [EUvsVirus Hackathon](https://www.euvsvirus.org/) as a volunteer mentor and matchmaker.
-- 🇪🇺 Participated in the preliminary study for the [Open source software strategy 2020-2023](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/informatics/open-source-software-strategy_en) of the European Union.
+- 🇪🇺 Participated in the preliminary study for the [Open source software strategy 2020-2023](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/informatics/open-source-software-strategy_en) of the European Union, a project led by the European Commission.
 - 🌱 Curated the [Open Coffee](https://opencoffee.gr/about/) Thessaloniki Meetups for ~10 years, supporting the local entrepreneurial community.
 - 🛰 Participated in 10 Research & Development projects for 10+ years funded by the European Union.
-- 🏬 Worked in 150+ software projects for the private sector in 10+ years. 
+- 🏬 Worked in 150+ software projects for the private sector in 10+ years. Started as a freelancer, then founded a small software house that turned to a 12 person digital solutions agency. Exited in 2022.
 
 Writing:
 
