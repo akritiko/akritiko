@@ -24,7 +24,7 @@ Writing:
 
 How to reach me: 
 
-- 📫 [@akritiko](https://twitter.com/akritiko) on Twitter or via akritiko [at] gmail [dot] com.
+- 📫 [@akritiko](https://twitter.com/akritiko) on Twitter, [@akritiko@mastodon.social](https://mastodon.social/@akritiko) on Mastodon or via akritiko [at] gmail [dot] com.
 
 <!--
 **akritiko/akritiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
