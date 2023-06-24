@@ -19,6 +19,8 @@ More about me:
 
 Writing:
 
+- [softwareresilience.com](http://www.softwareresilience.com)
+- [SWForum.eu series](https://www.softwareresilience.com/i/130041010/essays)
 - [Declaration of MyData Principles](https://oldwww.mydata.org/declaration/greek/) by MyData Global. Official Greek translation.
 - [The PM² Manifesto](https://apostolos.kritikos.me/2020/05/pm2-manifesto-europe/). Greek translation.
 
